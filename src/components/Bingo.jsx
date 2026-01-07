@@ -37,7 +37,7 @@ function Bingo() {
         {/* Header */}
         <div className="bingo-header">
           <h1 className="bingo-title">
-            Bingo Mexicano
+          🎲  Bingo 🎲
           </h1>
           <p className="bingo-counter">Cartas disponibles: <span>{disponibles.length}</span> / {initialCarts.length}</p>
         </div>
